@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ShaadiMatrimony</string>
+    <string name="accept">Accept</string>
+    <string name="decline">Decline</string>
+    <string name="accept_msg">You have accepted the request</string>
+    <string name="decline_msg">You have declined the request</string>
+    <string name="fail_data_msg">Failed to get data</string>
+</resources>
